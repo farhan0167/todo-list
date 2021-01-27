@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.form> .button{
+  align-items: flex-end;
+}
